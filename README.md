@@ -1,2 +1,2 @@
 # Proyectos
-Aplicando los temas aprendidos en el curso.
+Aplicando algunos conceptos y temas aprendidos durante el curso.
